@@ -7,3 +7,5 @@ This is line 3 for file.
 This is line 4 for file.
 
 Thus is line 5 for file.
+
+Adding one line from Remote Repository.
